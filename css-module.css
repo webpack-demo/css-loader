@@ -1,0 +1,6 @@
+/* 必须是 class，才能触发 css-modules */
+.box {
+  width: 200px;
+  height: 200px;
+  background: url('./fish.jpg')
+}
